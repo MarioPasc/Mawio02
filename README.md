@@ -1,6 +1,4 @@
 - 👋 Hi! My name is Mario Pascual
 - 📚 Studying bioinformatics at the University of Málaga (Spain 🇪🇸)
 - 🔍 Currently i'm interested in artificial intelligence, neuroscience, algorithms, ...
-- 🌱 I am looking forward to get a master's degree on Artificial Intelligence or Data science
 - 👅 I am a spanish native speaker but fluent in english
-- 👀 A fact about me is that i can play four instruments!
