@@ -1,4 +1,4 @@
-My name is Mario Pascual. I'm a Healthcare Engineering student with a minor in Bioinformatics. 
+My name is Mario Pascual. I'm a Medical Engineering student with a minor in Bioinformatics. 
 
 Currently, I'm working on a BSc final project focused on Neuroimaging segmentation using Deep Learning CNN architectures, primarily using [Python](https://www.python.org/) with [PyTorch](https://pytorch.org/) as my main DL library. 🧠
 
